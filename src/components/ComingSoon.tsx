@@ -4,7 +4,8 @@ const ComingSoon = () => {
   return (
     <Box>
       <Text fontSize={"8xl"} fontWeight={"black"} textAlign={"center"} color={"blackAlpha.200"}>
-       Loding ...
+       
+Loading ...
       </Text>
     </Box>
   );
